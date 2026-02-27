@@ -12,16 +12,6 @@ A simple Lambda function that receives Twilio SMS and call webhooks and forwards
 
 ## Quick Start
 
-### Validate Setup
-
-Run the validation script to check all requirements:
-
-```bash
-./validate.sh
-```
-
-This checks dependencies, project structure, builds the package, and validates Terraform configuration.
-
 ### 1. Deploy Infrastructure
 
 ```bash

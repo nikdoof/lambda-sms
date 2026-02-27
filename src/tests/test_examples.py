@@ -7,7 +7,6 @@ Usage:
     uv run python test_examples.py
 """
 
-import json
 import sys
 from pathlib import Path
 
